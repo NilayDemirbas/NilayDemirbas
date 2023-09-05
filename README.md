@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NilayDemirbas
-- 👀 I’m interested in mobile programming
-- 🌱 I’m currently learning react native and web technologies
+- 👀 I’m interested in data 
+- 🌱 I’m currently learning data science and web technologies
 - 💞️ I’m looking to collaborate on coding, project management or etc.
 - 📫 How to reach me --> nilaydemirbass44 [at] gmail.com
 
